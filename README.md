@@ -9,10 +9,10 @@ git clone https://github.com/cmucheru/curly-sniffle.git
 ## install the libraries
 
 ```
- pip i 
+ pip install pandas numpy
 ```
 ## run 
 ```
  python model.py
 ```
-## improve the model `:smiley:`
+## improve the model :smiley:
