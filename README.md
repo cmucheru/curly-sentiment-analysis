@@ -9,7 +9,7 @@ git clone https://github.com/cmucheru/curly-sniffle.git
 ## install the libraries
 
 ```
- pip install pandas numpy
+ pip install pandas numpy wandb
 ```
 ## run 
 ```
