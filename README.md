@@ -6,6 +6,11 @@
 git clone https://github.com/cmucheru/curly-sniffle.git
 ```
 
+## navigate to installation folder
+```
+cd curly-sniffle
+```
+
 ## install the libraries
 
 ```
